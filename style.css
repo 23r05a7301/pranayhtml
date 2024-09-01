@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+}
+ol{
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border-width: thick;
+}
+footer{
+    background-color: blueviolet;
+}
+h3{
+    font-family: cursive;
+}
